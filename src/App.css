@@ -1,0 +1,85 @@
+.App {
+  max-width: 1140px;
+  margin: auto;
+  background-color: #C8E3CB;
+}
+
+.jjfwLM {
+  margin: auto !important;
+  height: 350px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  align-items: center;
+}
+
+.jjfwLM a {
+  position: sticky;
+  top: 50%;
+}
+
+.fPimMH {
+  background-color: #680F3D;
+  padding: 10px;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+
+#header {
+  background-color: #680F3D !important;
+}
+#notfound {
+  background-color: #680F3D !important;
+}
+
+
+#angular {
+  background-color: #680F3D !important;
+}
+
+#contact {
+  background-color: #680F3D !important;
+}
+
+#aboutme {
+  background-color: #680F3D !important;
+}
+
+#springboot {
+  background-color: #680F3D !important;
+}
+
+#groupprojects {
+  background-color: #680F3D !important;
+}
+
+#reactproject {
+  background-color: #680F3D !important;
+}
+
+#htmlcss {
+  background-color: #680F3D !important;
+}
+
+#javascript {
+  background-color: #680F3D !important;
+}
+
+#navigation {
+  background-color: #C8E3CB !important;
+
+}
+
+#navigation a {
+  font-weight: 600;
+  font-style: italic;
+  color: #680F3D !important;
+}
+
+.card-img-top {
+  color: #680F3D;
+
+}
