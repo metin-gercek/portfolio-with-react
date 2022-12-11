@@ -26,7 +26,7 @@ export default class Angular extends Component {
             Angular My Store
           </a>
           <a
-            href="https://tuoteluettelo.herokuapp.com/dashboard"
+            href="https://tuoteluettelo.vercel.app/"
             class="list-group-item list-group-item-action"
           >
             Angular Product List
@@ -44,7 +44,7 @@ export default class Angular extends Component {
             Angular Directives
           </a>
           <a
-            href="https://metin-gercek.github.io/sovella-ng-directives/"
+            href="https://metin-gercek.github.io/sovella-databindingia/"
             class="list-group-item list-group-item-action"
           >
             Angular Data binding
@@ -56,7 +56,7 @@ export default class Angular extends Component {
             Angular My Dream App
           </a>
           <a
-            href="https://metin-gercek.github.io/my-dream-app/"
+            href="https://metin-gercek.github.io/kahvila/"
             class="list-group-item list-group-item-action"
           >
             Angular Coffee Order
