@@ -20,6 +20,13 @@ export default class Angular extends Component {
             Angular Tour of Heroes
           </a>
           <a
+            href="https://business-card-app.netlify.app/"
+            class="list-group-item list-group-item-action"
+            aria-current="true"
+          >
+            Business Card App
+          </a>
+          <a
             href="https://metin-gercek.github.io/angular-tutorial-mystore/"
             class="list-group-item list-group-item-action"
           >
