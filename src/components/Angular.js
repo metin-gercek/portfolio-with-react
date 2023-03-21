@@ -20,6 +20,13 @@ export default class Angular extends Component {
             Angular Tour of Heroes
           </a>
           <a
+            href="https://url-shorter-tiny-angular.vercel.app/"
+            class="list-group-item list-group-item-action"
+            aria-current="true"
+          >
+            URL shorter by Tiny
+          </a>
+          <a
             href="https://business-card-app.netlify.app/"
             class="list-group-item list-group-item-action"
             aria-current="true"
