@@ -14,7 +14,7 @@ export default class GroupProjects extends Component {
           </div>
           <div class="list-group">
             <a
-              href="https://around-helsinki.herokuapp.com"
+              href="https://github.com/liisamalm/aroundhelsinki"
               class="list-group-item list-group-item-action"
               aria-current="true"
             >

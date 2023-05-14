@@ -21,7 +21,7 @@ export default class Reactproject extends Component {
               Cards Project (Integrify)
             </a>
             <a
-              href="https://coffees-shop-react-nodejs.herokuapp.com/"
+              href="https://github.com/metin-gercek/coffees-shop-mern-stack"
               class="list-group-item list-group-item-action"
               aria-current="true"
             >
