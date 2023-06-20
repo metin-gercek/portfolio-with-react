@@ -14,6 +14,13 @@ export default class Reactproject extends Component {
           </div>
           <div class="list-group">
             <a
+              href="https://bitelicious.vercel.app/"
+              class="list-group-item list-group-item-action"
+              aria-current="true"
+            >
+              BiteLicious (React-Redux-NextJs-MongoDB)
+            </a>
+            <a
               href="https://cards-metingercek.netlify.app/"
               class="list-group-item list-group-item-action"
               aria-current="true"
