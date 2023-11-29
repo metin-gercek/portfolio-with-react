@@ -13,19 +13,12 @@ export const About = () => {
         </div>
         <div class="row featurette">
           <div class="col-md-7">
+            <div class="featurette-heading">
+              
+              <h2 class="featurette-heading">My name is Metin Gercek</h2>
+              <p class="lead ml-3">I am a versatile professional with expertise as a UX designer, Scrum Master, and frontend-focused full-stack developer. In UX design, I prioritize user needs, employing design thinking and usability testing. As a Scrum Master, I excel in agile project management, facilitating ceremonies and fostering team collaboration. As a full-stack developer, I bring hands-on technical proficiency in HTML, CSS, and JavaScript, contributing to both frontend and backend components. My ability to seamlessly navigate between roles enables me to bridge the gap between design and development, ensuring the creation of user-centric and efficiently delivered projects.</p></div>
             
-            <p class="lead">
-              I am getting Full-stack training with the following technologies: JavaScript, TypeScript, React.js, Redux, REST API, Node.js, Express.js, MongoDB, PostgreSQL, Jest, Bash scripting, Docker containers, GitHub Actions, and Amazon Web Services at Integrify and I am also currently studying Full Stack Web Developer program (Html,
-              Css, Javascript, Angular, Java and Spring boot) at Business
-              College to improve my software knowledge. 
-              <br></br> I'm a graphic designer since 2016. I develop further
-              my skills in graphic design, UI & UX design field. I have been
-              living in Finland for 5 years. I can learn easily, and I have an
-              analytical mind, because I am a mathematician. Before moving to
-              Finland, I worked for 15 years as a math teacher and school
-              principal.
-            </p>
-            
+           
           </div>
           <div class="col-md-5">
             <div>

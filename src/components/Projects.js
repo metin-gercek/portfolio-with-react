@@ -11,6 +11,7 @@ import SpringBoot from './SpringBoot';
 import HtmlCss from './HtmlCss';
 import {About} from './About';
 import {Contact} from './Contact';
+import Uxprototypes from "./Uxprototypes";
 
 
 export default class Projects extends Component {
@@ -27,6 +28,7 @@ export default class Projects extends Component {
           <Route  path="/html-css" element={<HtmlCss />} />
           <Route  path="/about" element={<About />} />
           <Route  path="/contact" element={<Contact />} />
+          <Route  path="/uxprototypes" element={<Uxprototypes />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
         

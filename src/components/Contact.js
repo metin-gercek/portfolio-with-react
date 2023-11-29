@@ -1,4 +1,4 @@
-import { faGithub, faTwitter } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 
@@ -22,9 +22,9 @@ export const Contact = () => {
           </div>
           <div class="card m-2" style={{ width: "18rem" }}>
             <div class="card-body">
-              <FontAwesomeIcon icon={faTwitter} class="card-img-top" />
-              <a href="https://twitter.com/metingercek" class="text-decoration-none">
-                  <h4 class="card-text text-center ">Twitter</h4>
+              <FontAwesomeIcon icon={faLinkedin} class="card-img-top" />
+              <a href="https://www.linkedin.com/in/metingercek/" class="text-decoration-none">
+                  <h4 class="card-text text-center ">Linkedin</h4>
               </a>
             </div>
           </div>

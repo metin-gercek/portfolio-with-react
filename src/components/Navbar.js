@@ -76,6 +76,11 @@ export default class Navi extends Component {
                   </ul>
                 </li>
                 <li className="nav-item">
+                  <a className="nav-link" href="/uxprototypes">
+                    Prototypes
+                  </a>
+                </li>
+                <li className="nav-item">
                   <a className="nav-link" href="/about">
                     About
                   </a>

@@ -16,7 +16,7 @@ export default class Footer extends Component {
                 
               </a>
               <span class="mb-3 mb-md-0 text-muted"> Metin Gercek
-                &copy; 2022 Integrify 
+                &copy; 2024 
               </span>
             </div>
             
