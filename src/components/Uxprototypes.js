@@ -67,7 +67,7 @@ const Uxprototypes = () => {
           Around Helsinki
         </a>
         <a
-          href="https://www.figma.com/proto/vnSMbUUiFKHxubK3wtmZQm/Saukko-MVP-1?type=design&node-id=1-70&t=MuG1jvVyFzTVVMb6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A70&show-proto-sidebar=1"
+          href="htpps://"
           class="list-group-item list-group-item-action"
           aria-current="true"
           target="_blank"
@@ -76,7 +76,7 @@ const Uxprototypes = () => {
           Helsingin Kaupunki (OSAAMISTODISTUS)
         </a>
         <a
-          href="https://www.figma.com/proto/2Uxcq20jMu97QWd2EQ00E3/virittamo?type=design&node-id=29-2037&t=GpdwmYDQVLbzfEfl-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=29%3A2037&show-proto-sidebar=1"
+          href="https://"
           class="list-group-item list-group-item-action"
           aria-current="true"
           target="_blank"
